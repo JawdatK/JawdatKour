@@ -19,7 +19,6 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" />
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/bash.svg" />
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/devices/cisco.png" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/devices/cisco.png" />
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/devices/mac.png" />
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/devices/pc.png" />
  
